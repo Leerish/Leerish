@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leerish Arvind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leerish&label=Profile%20views&color=0e75b6&style=flat" alt="leerish" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leerish" alt="leerish" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leerish&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on **My Gardener, Your smart Garden Assistant**
 
