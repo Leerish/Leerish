@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leerish Arvind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-# 💫 About Me:
+💫 About Me:
  🔭 I’m currently working on My Gardener, Your smart Garden Assistant<br><br>🌱 I’m currently learning Swift UI, Machine Learning and Data Science<br><br>👯 I’m looking to collaborate on Front-End Dev Projects<br><br>🤝 I’m looking for help with Backend<br><br>💬 Ask me about React ,Front End Development
 
 
