@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leerish Arvind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 💫 About Me:
- 🔭 Passionate Web developer , Tech Enthusiast <br><br>🌱 I’m currently learning  Machine Learning and Data Science<br><br>👯 I’m looking to collaborate on Web Dev, App Dev Projects<br><br>🤝 I’m looking for help with Backend<br><br>💬 Ask me about React ,Front End Development
+ 🔭 Passionate Web developer , Tech Enthusiast <br><br>🌱 I’m currently learning  Machine Learning and Data Science<br><br>👯 I’m looking to collaborate on Web Dev, App Dev Projects<br><br>🤝 I’m looking for help with Backend<br><br>💬 Ask me about Front End Development
 
 
 # 💻 Tech Stack:
