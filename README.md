@@ -15,9 +15,9 @@
 
 - 👨‍💻 My Website [https://portfolio-website-off.vercel.app/](https://portfolio-website-off.vercel.app/)
 
-- 💬 Ask me about **Web Development , ML/DL**
+- 💬 Ask me about **Web Development , ML/DL , AWS**
 
-- ⚡ Fun fact **When you think you have time !**
+- ⚡ Fun fact **You Loose When You Think You Have Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
