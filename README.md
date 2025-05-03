@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-- 🔭 I’m currently working on **Clothing-Estore** 
+- 🔭 I’m currently working on **Green Cloud AI** 
 
-- 🌱 I’m currently learning **Backend Web Development** 
+- 🌱 I’m currently learning **MLOPS** 
 
 - 👯 I’m looking to collaborate on **Machine Learning , Deep Learning , Developing Full stack applications**
 
